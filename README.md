@@ -18,6 +18,7 @@ This project implements a machine learning model to classify emails as spam or h
 - [License](#license)
 - [Contact](#contact)
 - [design](#Design)
+- [Run Predications](#run_predications)
 
 ## Project Overview
 This project develops a spam detection system using:
@@ -65,7 +66,11 @@ This project develops a spam detection system using:
     -pickle
     index.html
     -pure html
+  ## Run_Predications
+  before run predications run app.py file as fetch index. html file
+  then get predications
   
 - Jupyter Notebook or JupyterLab
+- flask,Html,Pyhton
 - Git (for cloning the repository)
 
