@@ -17,6 +17,7 @@ This project implements a machine learning model to classify emails as spam or h
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [design](#Design)
 
 ## Project Overview
 This project develops a spam detection system using:
@@ -54,9 +55,17 @@ This project develops a spam detection system using:
 - Libraries:
   - `pandas`
   - `scikit-learn`
-  - `matplotlib`
+  - `matplotlib
   - `seaborn`
   - `wordcloud`
+    ## Design
+    -for before runining the index.html file run the app.py to get the api_url to get the model predication
+    --app .py is used
+    -flask
+    -pickle
+    index.html
+    -pure html
+  
 - Jupyter Notebook or JupyterLab
 - Git (for cloning the repository)
 
